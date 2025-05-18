@@ -15,8 +15,4 @@ Customizable reporting periods and KPI targets
 Data Sources
 The dashboard connects to APIs from major social media platforms including:
 
-YouTube
-Instagram
-TikTok
-Twitter
-Facebook
+YouTube, Instagram, TikTok, Twitter, Facebook
